@@ -1,0 +1,101 @@
+{
+    "streams": {
+        "data structures": {
+            "id": 217915,
+            "latest_id": 184097491,
+            "topic_data": {
+                "hello": {
+                    "latest_date": 1577099144,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1577099114,
+                    "size": 1
+                }
+            }
+        },
+        "general": {
+            "id": 213222,
+            "latest_id": 184178176,
+            "topic_data": {
+                "archive": {
+                    "latest_date": 1577205355,
+                    "size": 2
+                },
+                "hello": {
+                    "latest_date": 1576582234,
+                    "size": 2
+                },
+                "new streams": {
+                    "latest_date": 1577099114,
+                    "size": 3
+                },
+                "swimming turtles": {
+                    "latest_date": 1572700519,
+                    "size": 1
+                },
+                "topic demonstration": {
+                    "latest_date": 1576870582,
+                    "size": 4
+                },
+                "zulip-archive": {
+                    "latest_date": 1577126843,
+                    "size": 10
+                }
+            }
+        },
+        "javascript": {
+            "id": 217809,
+            "latest_id": 184006972,
+            "topic_data": {
+                "hello": {
+                    "latest_date": 1576926461,
+                    "size": 2
+                },
+                "nodeschool": {
+                    "latest_date": 1576927226,
+                    "size": 2
+                },
+                "stream events": {
+                    "latest_date": 1576926354,
+                    "size": 1
+                }
+            }
+        },
+        "python": {
+            "id": 213224,
+            "latest_id": 184293963,
+            "topic_data": {
+                "f strings": {
+                    "latest_date": 1577042116,
+                    "size": 10
+                },
+                "hello": {
+                    "latest_date": 1577101152,
+                    "size": 6
+                },
+                "peps": {
+                    "latest_date": 1577355693,
+                    "size": 1
+                },
+                "pycon 2020": {
+                    "latest_date": 1577049181,
+                    "size": 4
+                },
+                "stream events": {
+                    "latest_date": 1572700628,
+                    "size": 1
+                },
+                "walrus operator": {
+                    "latest_date": 1577412347,
+                    "size": 5
+                },
+                "zulip": {
+                    "latest_date": 1576926695,
+                    "size": 1
+                }
+            }
+        }
+    },
+    "time": 1577448650.7529812
+}

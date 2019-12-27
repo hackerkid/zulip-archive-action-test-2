@@ -1,0 +1,62 @@
+[
+    {
+        "content": "<p>I have been enjoying Python's relatively new \"f strings\" feature.</p>",
+        "id": 184006408,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1576926208
+    },
+    {
+        "content": "<p><a href=\"https://www.python.org/dev/peps/pep-0498/\" target=\"_blank\" title=\"https://www.python.org/dev/peps/pep-0498/\">https://www.python.org/dev/peps/pep-0498/</a></p>",
+        "id": 184006452,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1576926246
+    },
+    {
+        "content": "<p>I guess they were added in 3.6.  <span class=\"user-mention\" data-user-id=\"255088\">@Vishnu Ks</span> Have you had a chance to play with them?</p>",
+        "id": 184006456,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1576926278
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"247724\">@Steve Howell</span> I honestly didn't knew they existed untill now. Can't wait to start using them in Zulip once we deprecate 3.5.</p>",
+        "id": 184006537,
+        "sender_full_name": "Vishnu Ks",
+        "timestamp": 1576926459
+    },
+    {
+        "content": "<p>I guess that is not going to happen anytime soon.</p>",
+        "id": 184006585,
+        "sender_full_name": "Vishnu Ks",
+        "timestamp": 1576926492
+    },
+    {
+        "content": "<p>Yeah, they will really improve certain pieces of code.</p>",
+        "id": 184006586,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1576926495
+    },
+    {
+        "content": "<p>Most of the Zulip backend code uses templates to produce non-trivial content, so it might not make a dramatic difference for Zulip.  But for <code>zulip-archive</code> it was a great alternative to old-school <code>format</code> statements (and prevented the need for a heavier templating approach).</p>",
+        "id": 184006604,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1576926568
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"247724\">@Steve Howell</span> <code>format</code> is now old-school? :)</p>",
+        "id": 184065423,
+        "sender_full_name": "Neil Pilgrim",
+        "timestamp": 1577041561
+    },
+    {
+        "content": "<p>I don't quite have 3.8 yet, but while a little niche, I think the debug f-strings will be useful too.</p>",
+        "id": 184065463,
+        "sender_full_name": "Neil Pilgrim",
+        "timestamp": 1577041597
+    },
+    {
+        "content": "<p>haha, yep, I consider <code>format</code> old-school now :)  Of course, string interpolation goes way, way back.</p>",
+        "id": 184065743,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1577042116
+    }
+]
