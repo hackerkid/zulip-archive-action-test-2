@@ -2,11 +2,11 @@
     "streams": {
         "data structures": {
             "id": 217915,
-            "latest_id": 184097491,
+            "latest_id": 184339786,
             "topic_data": {
                 "hello": {
-                    "latest_date": 1577099144,
-                    "size": 1
+                    "latest_date": 1577475925,
+                    "size": 2
                 },
                 "stream events": {
                     "latest_date": 1577099114,
@@ -97,5 +97,5 @@
             }
         }
     },
-    "time": 1577475840.1209743
+    "time": 1577477046.4070022
 }

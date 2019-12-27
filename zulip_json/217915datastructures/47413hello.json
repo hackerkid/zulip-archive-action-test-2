@@ -4,5 +4,11 @@
         "id": 184097491,
         "sender_full_name": "Steve Howell",
         "timestamp": 1577099144
+    },
+    {
+        "content": "<p>Possibly <a href=\"https://research.swtch.com/sparse\" target=\"_blank\" title=\"https://research.swtch.com/sparse\">this</a> bit of audacity.</p>",
+        "id": 184339786,
+        "sender_full_name": "Ray Kraesig",
+        "timestamp": 1577475925
     }
 ]
