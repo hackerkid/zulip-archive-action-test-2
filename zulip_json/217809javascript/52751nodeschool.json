@@ -1,0 +1,14 @@
+[
+    {
+        "content": "<p>I really like <a href=\"http://nodeschool.io\" target=\"_blank\" title=\"http://nodeschool.io\">nodeschool.io</a>. Its a terminal based workshopper that teaches various javascript concepts. I really enjoyed taking the introduction to nodejs and introduction to es6 courses.</p>",
+        "id": 184006846,
+        "sender_full_name": "Vishnu Ks",
+        "timestamp": 1576927016
+    },
+    {
+        "content": "<p>I am intrigued by some of the stuff that Gary Bernhardt is doing in the learn-programming space: <a href=\"https://www.executeprogram.com/\" target=\"_blank\" title=\"https://www.executeprogram.com/\">https://www.executeprogram.com/</a></p>",
+        "id": 184006972,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1576927226
+    }
+]
