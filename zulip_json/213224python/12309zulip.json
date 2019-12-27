@@ -1,0 +1,8 @@
+[
+    {
+        "content": "<p>It's worth mentioning that Zulip (the open source software that you're probably using now) is largely written in Python.  It's backend is primarily Django-based, and there are also non-Django comments written in Python.  Finally, our canonical API is written in Python (although we also officially support a JS API, and we have lots of unofficial APIs in other languages).</p>",
+        "id": 184006666,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1576926695
+    }
+]
