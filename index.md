@@ -12,8 +12,8 @@ permalink: /index.html
 
 * [general](213222general/index.html) (6 topics)
 
+* [data structures](217915datastructures/index.html) (3 topics)
+
 * [javascript](217809javascript/index.html) (3 topics)
 
-* [data structures](217915datastructures/index.html) (2 topics)
-
-<hr><p>Last updated: Dec 28 2019 at 11:44 UTC</p>
+<hr><p>Last updated: Dec 28 2019 at 12:04 UTC</p>
