@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: Zulip Chat Archive
-permalink: /217915datastructures/index.html
+permalink: zulip-archive-action-test-2/217915datastructures/index.html
 ---
 
-## Stream: [data structures](http://vishnuks.com/217915datastructures/index.html)
+## Stream: [data structures](http://vishnuks.com/zulip-archive-action-test-2/217915datastructures/index.html)
 ---
 
 ### Topics:
@@ -13,4 +13,4 @@ permalink: /217915datastructures/index.html
 * [hello](47413hello.html) (3 messages, latest: Dec 27 2019 at 20:14)
 * [stream events](95106streamevents.html) (1 message, latest: Dec 23 2019 at 11:05)
 
-<hr><p>Last updated: Dec 30 2019 at 11:41 UTC</p>
+<hr><p>Last updated: Dec 30 2019 at 11:49 UTC</p>
