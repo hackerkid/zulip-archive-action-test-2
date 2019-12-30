@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Zulip Chat Archive
-permalink: zulip-archive-action-test-2/217809javascript/index.html
+permalink: /217809javascript/index.html
 ---
 
 ## Stream: [javascript](http://vishnuks.com/zulip-archive-action-test-2/217809javascript/index.html)
@@ -13,4 +13,4 @@ permalink: zulip-archive-action-test-2/217809javascript/index.html
 * [hello](47413hello.html) (2 messages, latest: Dec 21 2019 at 11:07)
 * [stream events](95106streamevents.html) (1 message, latest: Dec 21 2019 at 11:05)
 
-<hr><p>Last updated: Dec 30 2019 at 11:57 UTC</p>
+<hr><p>Last updated: Dec 30 2019 at 12:04 UTC</p>

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Zulip Chat Archive
-permalink: zulip-archive-action-test-2/index.html
+permalink: /index.html
 ---
 
 ---
@@ -16,4 +16,4 @@ permalink: zulip-archive-action-test-2/index.html
 
 * [javascript](217809javascript/index.html) (3 topics)
 
-<hr><p>Last updated: Dec 30 2019 at 11:57 UTC</p>
+<hr><p>Last updated: Dec 30 2019 at 12:04 UTC</p>
