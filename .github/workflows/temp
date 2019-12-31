@@ -1,0 +1,19 @@
+on:
+  schedule:
+   - cron: '*/5 * * * *'
+
+jobs:
+  publish_archive_job:
+    runs-on: ubuntu-latest
+    name: A job to publish Zulip archive in GitHub pages
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+    - name: Run archive
+      id: archive
+      uses: hackerkid/zulip-archive@gh-action
+      with:
+        site: ${{ secrets.site }}
+        key: ${{ secrets.key }}
+        email: ${{ secrets.email }}
+        github_token: ${{ secrets.personal_access_token }}
