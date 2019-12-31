@@ -13,6 +13,8 @@ json_dir_path="${checked_out_repo_path}/zulip_json"
 _layouts_path="${checked_out_repo_path}/_layouts"
 img_dir_path="${checked_out_repo_path}/assets/img"
 
+ls /zulip-archive
+
 cp -rf /zulip-archive $GITHUB_WORKSPACE
 cd "$GITHUB_WORKSPACE/zulip-archive"
 

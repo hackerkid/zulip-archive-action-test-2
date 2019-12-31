@@ -2,7 +2,7 @@ FROM hackerkid/zulip-archive
 
 RUN mkdir -p /zulip-archive
 
-COPY * /zulip-archive/
+COPY . /zulip-archive/
 
 CMD echo $GITHUB_WORKSPACE
 
