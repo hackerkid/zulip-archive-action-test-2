@@ -1,0 +1,57 @@
+{
+    "streams": {
+        "data structures": {
+            "id": 217915,
+            "latest_id": 184372292,
+            "topic_data": {
+                "hello": {
+                    "latest_date": 1577477661,
+                    "size": 3
+                },
+                "redblack trees": {
+                    "latest_date": 1577534357,
+                    "size": 2
+                },
+                "stream events": {
+                    "latest_date": 1577099114,
+                    "size": 1
+                }
+            }
+        },
+        "python": {
+            "id": 213224,
+            "latest_id": 184293963,
+            "topic_data": {
+                "f strings": {
+                    "latest_date": 1577042116,
+                    "size": 10
+                },
+                "hello": {
+                    "latest_date": 1577101152,
+                    "size": 6
+                },
+                "peps": {
+                    "latest_date": 1577355693,
+                    "size": 1
+                },
+                "pycon 2020": {
+                    "latest_date": 1577049181,
+                    "size": 4
+                },
+                "stream events": {
+                    "latest_date": 1572700628,
+                    "size": 1
+                },
+                "walrus operator": {
+                    "latest_date": 1577412347,
+                    "size": 5
+                },
+                "zulip": {
+                    "latest_date": 1576926695,
+                    "size": 1
+                }
+            }
+        }
+    },
+    "time": 1577969149.4894521
+}
