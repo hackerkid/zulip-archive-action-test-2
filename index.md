@@ -10,6 +10,10 @@ permalink: /index.html
 
 * [python](213224python/index.html) (7 topics)
 
+* [general](213222general/index.html) (6 topics)
+
 * [data structures](217915datastructures/index.html) (3 topics)
 
-<hr><p>Last updated: Jan 02 2020 at 13:05 UTC</p>
+* [javascript](217809javascript/index.html) (3 topics)
+
+<hr><p>Last updated: Jan 02 2020 at 14:01 UTC</p>
