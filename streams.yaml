@@ -2,4 +2,4 @@ included:
   - '*'
 
 excluded:
-  - 'python'
+  - python
