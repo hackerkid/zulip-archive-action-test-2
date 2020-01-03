@@ -1,3 +1,5 @@
 included:
-  - javascript
-  - data structures
+  - '*'
+
+excluded:
+  - 'python'
