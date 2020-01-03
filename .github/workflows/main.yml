@@ -1,6 +1,6 @@
 on:
   schedule:
-   - cron: '0 * * * *'
+   - cron: '*/5 * * * *'
 
 jobs:
   publish_archive_job:
@@ -11,7 +11,7 @@ jobs:
       uses: actions/checkout@v1
     - name: Run archive
       id: archive
-      uses: hackerkid/zulip-archive@gh-action
+      uses: hackerkid/zulip-archive@actions-followup-1
       with:
         site: ${{ secrets.site }}
         key: ${{ secrets.key }}
