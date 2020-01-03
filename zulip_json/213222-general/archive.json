@@ -1,0 +1,14 @@
+[
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"*\">@all</span> It is important to know that all conversations on this realm (not including private streams and PMs) will be archived!  One such archive lives here now: <a href=\"https://showell.github.io/archive/\" target=\"_blank\" title=\"https://showell.github.io/archive/\">https://showell.github.io/archive/</a>  (Some of these archives may not be completely up to date--we are still automating that process.)</p>",
+        "id": 184014914,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1576942789
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"*\">@all</span> Since we've had a few new folks join lately, I'm sending out another reminder that all content on public streams on this site will be archived to the web, so just be aware of that.</p>\n<p>I hope to be online here on Thursday/Friday to start some discussions.  Thanks to everybody who's joined so far.</p>",
+        "id": 184178176,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1577205355
+    }
+]
