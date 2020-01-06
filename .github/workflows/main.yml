@@ -1,6 +1,6 @@
 on:
   schedule:
-   - cron: '*/55 * * * *'
+   - cron: '*/5 * * * *'
 
 jobs:
   publish_archive_job:
@@ -13,7 +13,7 @@ jobs:
       id: archive
       uses: hackerkid/zulip-archive@actions-followup-1
       with:
-        site: ${{ secrets.site }}
-        key: ${{ secrets.key }}
-        email: ${{ secrets.email }}
-        github_token: ${{ secrets.personal_access_token }}
+        zulip_organization_url: ${{ secrets.zulip_organization_url }}
+        zulip_bot_email: ${{ secrets.zulip_bot_email }}
+        zulip_bot_key: ${{ secrets.zulip_bot_key }}
+        github_personal_access_token: ${{ secrets.github_personal_access_token }}
