@@ -4,5 +4,41 @@
         "id": 186227741,
         "sender_full_name": "Steve Howell",
         "timestamp": 1579641046
+    },
+    {
+        "content": "<p>So for the list [0, 5, 1, 2, 3, 4], the only move you need is <strong>from</strong>: 1, <strong>to</strong>: 5.  In other words, put the 5 from position 1 into position 5.</p>",
+        "id": 186227840,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579641105
+    },
+    {
+        "content": "<p>For lists that are in worse order, you'll require more moves, so, for example, [3, 2, 1, 0] requires moves from-0-to-3 and from-1-to-2.</p>",
+        "id": 186228130,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579641186
+    },
+    {
+        "content": "<p>Finally, your moves should account for previous moves, so for [3, 2, 1, 0], you might move the 0 to the front of the list, and of course that will change the positions of [2, 1, 0] and affect their subsequent from/to offsets.</p>",
+        "id": 186228323,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579641284
+    },
+    {
+        "content": "<p>The simple solution to this problem is to just take any decent sort algorithm, perform it on the list, and record the moves.</p>",
+        "id": 186228410,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579641323
+    },
+    {
+        "content": "<p>But suppose you think that the list is generally gonna be mostly sorted.  How can you take advantage of that?   And when do you bail out of the sort?</p>",
+        "id": 186228446,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579641356
+    },
+    {
+        "content": "<p>So sorry to mention @all for the above puzzle, but I'm trying to generate a bit of conversation on this site.  Thanks again for signing up!</p>",
+        "id": 186228525,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579641390
     }
 ]
