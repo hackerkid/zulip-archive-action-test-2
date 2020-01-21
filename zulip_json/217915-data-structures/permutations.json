@@ -52,5 +52,23 @@
         "id": 186232571,
         "sender_full_name": "Steve Howell",
         "timestamp": 1579643939
+    },
+    {
+        "content": "<p>Oops, you're right about 3,2,1,0.</p>",
+        "id": 186232636,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579643991
+    },
+    {
+        "content": "<p>One solution for 3210 is 3210 -&gt; 0321 -&gt; 0132 -&gt; 0123.</p>",
+        "id": 186232741,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579644033
+    },
+    {
+        "content": "<p>Also, I'm making the constraint that you can only move one element at a time.  In other words, you can't move a big chunk at a time.</p>",
+        "id": 186232921,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579644176
     }
 ]
