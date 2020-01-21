@@ -10,8 +10,8 @@ permalink: /index.html
 
 * [general](stream/213222-general/index.html) (6 topics)
 
-* [data structures](stream/217915-data-structures/index.html) (3 topics)
+* [data structures](stream/217915-data-structures/index.html) (4 topics)
 
 * [javascript](stream/217809-javascript/index.html) (3 topics)
 
-<hr><p>Last updated: Jan 21 2020 at 21:05 UTC</p>
+<hr><p>Last updated: Jan 21 2020 at 21:11 UTC</p>
