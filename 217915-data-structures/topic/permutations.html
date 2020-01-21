@@ -87,6 +87,24 @@ permalink: /stream/217915-data-structures/topic/permutations.html
 
 
 
+<a name="186233155"></a>
+<h4><a href="https://programmers.zulipchat.com#narrow/stream/217915-data%20structures/topic/permutations/near/186233155" class="zl"><img src="http://vishnuks.com/zulip-archive-action-test-2/assets/img/zulip2.png" alt="view this post on Zulip"></a> Steve Howell <a href="http://vishnuks.com/zulip-archive-action-test-2/217915-data-structures/permutations#186233155">(Jan 21 2020 at 22:05)</a>:</h4>
+<p>So one fairly obvious thing to do with a mostly sorted list is compress it into ranges...i.e. [9, 0, 1, 2, 3, 6, 7, 4, 5, 8] would be [9, 0-3, 6-7, 4-5, 8].</p>
+
+
+
+<a name="186233324"></a>
+<h4><a href="https://programmers.zulipchat.com#narrow/stream/217915-data%20structures/topic/permutations/near/186233324" class="zl"><img src="http://vishnuks.com/zulip-archive-action-test-2/assets/img/zulip2.png" alt="view this post on Zulip"></a> Steve Howell <a href="http://vishnuks.com/zulip-archive-action-test-2/217915-data-structures/permutations#186233324">(Jan 21 2020 at 22:07)</a>:</h4>
+<p>And then if you do an insertion sort, you can pretty quickly infer the actual moves from the original list.</p>
+
+
+
+<a name="186233501"></a>
+<h4><a href="https://programmers.zulipchat.com#narrow/stream/217915-data%20structures/topic/permutations/near/186233501" class="zl"><img src="http://vishnuks.com/zulip-archive-action-test-2/assets/img/zulip2.png" alt="view this post on Zulip"></a> Steve Howell <a href="http://vishnuks.com/zulip-archive-action-test-2/217915-data-structures/permutations#186233501">(Jan 21 2020 at 22:09)</a>:</h4>
+<p>But you need to be a little careful about whether you move 0, 1, 2, and 3 before 9 (four moves) vs. moving 9 before 0, 1, 2, and 3 (one move).  And then there's also the fact that you're not really minimizing moves in an insertion sort.</p>
+
+
+
 {% endraw %}
 
-<hr><p>Last updated: Jan 21 2020 at 22:05 UTC</p>
+<hr><p>Last updated: Jan 21 2020 at 22:11 UTC</p>

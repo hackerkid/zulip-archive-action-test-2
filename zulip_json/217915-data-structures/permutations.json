@@ -70,5 +70,23 @@
         "id": 186232921,
         "sender_full_name": "Steve Howell",
         "timestamp": 1579644176
+    },
+    {
+        "content": "<p>So one fairly obvious thing to do with a mostly sorted list is compress it into ranges...i.e. [9, 0, 1, 2, 3, 6, 7, 4, 5, 8] would be [9, 0-3, 6-7, 4-5, 8].</p>",
+        "id": 186233155,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579644346
+    },
+    {
+        "content": "<p>And then if you do an insertion sort, you can pretty quickly infer the actual moves from the original list.</p>",
+        "id": 186233324,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579644460
+    },
+    {
+        "content": "<p>But you need to be a little careful about whether you move 0, 1, 2, and 3 before 9 (four moves) vs. moving 9 before 0, 1, 2, and 3 (one move).  And then there's also the fact that you're not really minimizing moves in an insertion sort.</p>",
+        "id": 186233501,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579644566
     }
 ]
