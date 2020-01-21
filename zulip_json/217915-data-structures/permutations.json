@@ -40,5 +40,17 @@
         "id": 186228525,
         "sender_full_name": "Steve Howell",
         "timestamp": 1579641390
+    },
+    {
+        "content": "<p>What are you defining as a \"move\"? Saying that you can solve <code>[0, 5, 1, 2, 3, 4]</code> in one move seems to imply that a \"move\" is a single-step rotation of some contiguous subsequence, but you need at least three moves to solve <code>[3, 2, 1, 0]</code> that way.</p>",
+        "id": 186232415,
+        "sender_full_name": "Ray Kraesig",
+        "timestamp": 1579643840
+    },
+    {
+        "content": "<p>A move from 2 to 6 moves item 2 to the 6th position and pushes 3, 4, 5, 6 back.  (So, yeah, kinda like a rotation.)</p>",
+        "id": 186232571,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1579643939
     }
 ]
