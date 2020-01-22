@@ -100,5 +100,11 @@
         "id": 186234019,
         "sender_full_name": "Steve Howell",
         "timestamp": 1579644903
+    },
+    {
+        "content": "<p>That's interesting. We can reword the new problem as:</p>\n<p>\"You have heavy bags of flour each having some weight and you know the order that you have to put them in. You want to expend minimum energy to pick up the bags (thus, you wanna lift the lighter bags). Which bags would you move around?\"</p>\n<p>Here, this becomes:</p>\n<table>\n<thead>\n<tr>\n<th>Current Order</th>\n<th>Weight</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>1</td>\n</tr>\n<tr>\n<td>1</td>\n<td>4</td>\n</tr>\n<tr>\n<td>3</td>\n<td>2</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<td>4</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>",
+        "id": 186267443,
+        "sender_full_name": "Rohitt Vashishtha",
+        "timestamp": 1579684190
     }
 ]
