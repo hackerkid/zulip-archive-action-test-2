@@ -106,5 +106,11 @@
         "id": 186267443,
         "sender_full_name": "Rohitt Vashishtha",
         "timestamp": 1579684190
+    },
+    {
+        "content": "<p>So, we can choose which elements to move by sorting by weight maybe?</p>\n<p>Here, this is the order that we would then choose to traverse it in: <code>[5, 4], [3, 2], [1]</code> (1 is the least likely to be moved around).</p>\n<p>Among these, let's sort them by how far they are from their position. So, we get <code>[5], [4], [2], [3], [1]</code>.</p>\n<p>Now, let's  do our moves (Energy Used in brackets):</p>\n<p><code>51324</code> -&gt; <code>13245</code> (1) -&gt; <code>13245</code>(0) -&gt; <code>12345</code> (2) = 3 units of energy used, or 3 moves in the original problem.</p>",
+        "id": 186268045,
+        "sender_full_name": "Rohitt Vashishtha",
+        "timestamp": 1579684660
     }
 ]

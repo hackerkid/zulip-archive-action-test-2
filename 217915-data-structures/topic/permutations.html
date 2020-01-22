@@ -163,6 +163,16 @@ permalink: /stream/217915-data-structures/topic/permutations.html
 
 
 
+<a name="186268045"></a>
+<h4><a href="https://programmers.zulipchat.com#narrow/stream/217915-data%20structures/topic/permutations/near/186268045" class="zl"><img src="http://vishnuks.com/zulip-archive-action-test-2/assets/img/zulip2.png" alt="view this post on Zulip"></a> Rohitt Vashishtha <a href="http://vishnuks.com/zulip-archive-action-test-2/217915-data-structures/permutations#186268045">(Jan 22 2020 at 09:17)</a>:</h4>
+<p>So, we can choose which elements to move by sorting by weight maybe?</p>
+<p>Here, this is the order that we would then choose to traverse it in: <code>[5, 4], [3, 2], [1]</code> (1 is the least likely to be moved around).</p>
+<p>Among these, let's sort them by how far they are from their position. So, we get <code>[5], [4], [2], [3], [1]</code>.</p>
+<p>Now, let's  do our moves (Energy Used in brackets):</p>
+<p><code>51324</code> -&gt; <code>13245</code> (1) -&gt; <code>13245</code>(0) -&gt; <code>12345</code> (2) = 3 units of energy used, or 3 moves in the original problem.</p>
+
+
+
 {% endraw %}
 
-<hr><p>Last updated: Jan 22 2020 at 09:17 UTC</p>
+<hr><p>Last updated: Jan 22 2020 at 09:23 UTC</p>
