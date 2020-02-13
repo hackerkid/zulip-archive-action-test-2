@@ -130,5 +130,11 @@
         "id": 186436983,
         "sender_full_name": "Rohitt Vashishtha",
         "timestamp": 1579814464
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"255934\">@Rohitt Vashishtha</span> That variable name is less than ideal, but it basically represents the value that <strong>should</strong> be at the top (i.e. front) of the new list.</p>",
+        "id": 188098034,
+        "sender_full_name": "Steve Howell",
+        "timestamp": 1581593815
     }
 ]
