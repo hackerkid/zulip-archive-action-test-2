@@ -2,15 +2,15 @@
     "streams": {
         "data structures": {
             "id": 217915,
-            "latest_id": 188098034,
+            "latest_id": 197147241,
             "topic_data": {
                 "hello": {
                     "latest_date": 1577477661,
                     "size": 3
                 },
                 "permutations": {
-                    "latest_date": 1581593815,
-                    "size": 23
+                    "latest_date": 1589204816,
+                    "size": 25
                 },
                 "redblack trees": {
                     "latest_date": 1577534357,
@@ -71,5 +71,5 @@
             }
         }
     },
-    "time": 1589204730.4074714
+    "time": 1589205086.2324536
 }
