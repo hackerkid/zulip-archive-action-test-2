@@ -14,4 +14,4 @@ permalink: /stream/217915-data-structures/index.html
 * [hello](topic/hello.html) (3 messages, latest: Dec 27 2019 at 20:14)
 * [stream events](topic/stream.20events.html) (1 message, latest: Dec 23 2019 at 11:05)
 
-<hr><p>Last updated: Jun 24 2020 at 16:41 UTC</p>
+<hr><p>Last updated: Jun 24 2020 at 16:47 UTC</p>
