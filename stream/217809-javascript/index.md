@@ -13,4 +13,4 @@ permalink: /stream/217809-javascript/index.html
 * [hello](topic/hello.html) (2 messages, latest: Dec 21 2019 at 11:07)
 * [stream events](topic/stream.20events.html) (1 message, latest: Dec 21 2019 at 11:05)
 
-<hr><p>Last updated: Jul 12 2020 at 20:58 UTC</p>
+<hr><p>Last updated: Jul 12 2020 at 21:09 UTC</p>
