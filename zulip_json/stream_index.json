@@ -72,11 +72,11 @@
         },
         "test": {
             "id": 253152,
-            "latest_id": 207082800,
+            "latest_id": 207083079,
             "topic_data": {
                 "hello": {
-                    "latest_date": 1597602011,
-                    "size": 1
+                    "latest_date": 1597602534,
+                    "size": 3
                 },
                 "stream events": {
                     "latest_date": 1597592605,
@@ -85,5 +85,5 @@
             }
         }
     },
-    "time": 1597602200.3479154
+    "time": 1597602553.5680172
 }
