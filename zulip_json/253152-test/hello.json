@@ -130,5 +130,11 @@
         "id": 207085757,
         "sender_full_name": "Bridge Bot",
         "timestamp": 1597605999
+    },
+    {
+        "content": "<p><a href=\"https://chat.zulip.org/#narrow/stream/94-bot%20testing/near/990442\">Steve Howell:</a> Hello from Steve on czo</p>",
+        "id": 207085878,
+        "sender_full_name": "Bridge Bot",
+        "timestamp": 1597606205
     }
 ]
