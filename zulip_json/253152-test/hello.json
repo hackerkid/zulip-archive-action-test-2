@@ -16,5 +16,17 @@
         "id": 207083079,
         "sender_full_name": "Bridge Bot",
         "timestamp": 1597602534
+    },
+    {
+        "content": "<p><a href=\"https://nightly.zulipdev.org/#narrow/stream/6-testing/near/1005\">Rohitt:</a> Test.</p>",
+        "id": 207083092,
+        "sender_full_name": "Bridge Bot",
+        "timestamp": 1597602584
+    },
+    {
+        "content": "<p><a href=\"https://nightly.zulipdev.org/#narrow/stream/6-testing/near/1006\">Rohitt:</a> Test.</p>",
+        "id": 207083142,
+        "sender_full_name": "Bridge Bot",
+        "timestamp": 1597602639
     }
 ]

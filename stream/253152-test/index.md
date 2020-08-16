@@ -9,7 +9,7 @@ permalink: /stream/253152-test/index.html
 
 ### Topics:
 
-* [hello](topic/hello.html) (3 messages, latest: Aug 16 2020 at 18:28)
+* [hello](topic/hello.html) (5 messages, latest: Aug 16 2020 at 18:30)
 * [stream events](topic/stream.20events.html) (4 messages, latest: Aug 16 2020 at 15:43)
 
-<hr><p>Last updated: Aug 16 2020 at 18:29 UTC</p>
+<hr><p>Last updated: Aug 16 2020 at 18:35 UTC</p>
