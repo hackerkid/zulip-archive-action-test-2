@@ -124,5 +124,11 @@
         "id": 207084684,
         "sender_full_name": "Bridge Bot",
         "timestamp": 1597604695
+    },
+    {
+        "content": "<p>Hey! The following places are now connected to each other:</p>\n<ul>\n<li><a href=\"https://chat.zulip.org/#narrow/stream/test%20here\">czo &gt; test here</a></li>\n<li><a href=\"https://nightly.zulipdev.org/#narrow/stream/testing\">nightly &gt; testing</a></li>\n<li><a href=\"#narrow/stream/test\">programmers &gt; test</a></li>\n<li><a href=\"https://chat.zulip.org/#narrow/stream/bot%20testing\">czo &gt; bot testing</a><br>\nWhen a message has been successfully mirrored, you'll see a <span aria-label=\"check\" class=\"emoji emoji-2705\" role=\"img\" title=\"check\">:check:</span> reaction on your message.</li>\n</ul>\n<p>Please keep in mind that we cannot mirror message edits and reactions; please send a new message instead of editing an existing one.</p>",
+        "id": 207085757,
+        "sender_full_name": "Bridge Bot",
+        "timestamp": 1597605999
     }
 ]
