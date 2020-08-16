@@ -69,7 +69,17 @@
                     "size": 1
                 }
             }
+        },
+        "test": {
+            "id": 253152,
+            "latest_id": 207075559,
+            "topic_data": {
+                "stream events": {
+                    "latest_date": 1597591179,
+                    "size": 2
+                }
+            }
         }
     },
-    "time": 1597591005.0314074
+    "time": 1597591365.791418
 }
