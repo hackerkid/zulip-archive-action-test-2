@@ -16,5 +16,11 @@
         "id": 207075901,
         "sender_full_name": "Rohitt Vashishtha",
         "timestamp": 1597591778
+    },
+    {
+        "content": "<p><a href=\"https://nightly.zulipdev.org/#narrow/stream/6-testing/near/996\">Rohitt:</a> Hello world.</p>",
+        "id": 207076440,
+        "sender_full_name": "Bridge Bot",
+        "timestamp": 1597592605
     }
 ]
