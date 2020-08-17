@@ -72,8 +72,12 @@
         },
         "test": {
             "id": 253152,
-            "latest_id": 207085878,
+            "latest_id": 207097912,
             "topic_data": {
+                "Narrow links": {
+                    "latest_date": 1597625579,
+                    "size": 3
+                },
                 "hello": {
                     "latest_date": 1597606205,
                     "size": 23
@@ -85,5 +89,5 @@
             }
         }
     },
-    "time": 1597625244.6022878
+    "time": 1597625832.3045819
 }
