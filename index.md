@@ -12,8 +12,8 @@ permalink: /index.html
 
 * [data structures](stream/217915-data-structures/index.html) (4 topics)
 
+* [test](stream/253152-test/index.html) (4 topics)
+
 * [javascript](stream/217809-javascript/index.html) (3 topics)
 
-* [test](stream/253152-test/index.html) (3 topics)
-
-<hr><p>Last updated: Aug 17 2020 at 01:39 UTC</p>
+<hr><p>Last updated: Aug 17 2020 at 01:45 UTC</p>
