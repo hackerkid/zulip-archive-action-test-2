@@ -58,5 +58,11 @@
         "id": 207100475,
         "sender_full_name": "Bridge Bot",
         "timestamp": 1597629916
+    },
+    {
+        "content": "<p><a href=\"https://chat.zulip.org/#narrow/stream/94-bot%20testing/near/990584\">Rohitt Vashishtha:</a> Hello.</p>",
+        "id": 207104166,
+        "sender_full_name": "Bridge Bot",
+        "timestamp": 1597635608
     }
 ]
