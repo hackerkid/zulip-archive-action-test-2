@@ -16,4 +16,4 @@ permalink: /index.html
 
 * [javascript](stream/217809-javascript/index.html) (3 topics)
 
-<hr><p>Last updated: Nov 30 2020 at 23:56 UTC</p>
+<hr><p>Last updated: Dec 01 2020 at 00:00 UTC</p>
