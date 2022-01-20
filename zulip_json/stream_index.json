@@ -72,7 +72,7 @@
         },
         "test": {
             "id": 253152,
-            "latest_id": 207108415,
+            "latest_id": 268723995,
             "topic_data": {
                 "Narrow links": {
                     "latest_date": 1597625579,
@@ -87,8 +87,8 @@
                     "size": 23
                 },
                 "i test here": {
-                    "latest_date": 1597642650,
-                    "size": 2
+                    "latest_date": 1642698225,
+                    "size": 4
                 },
                 "stream events": {
                     "latest_date": 1597592605,
@@ -105,5 +105,5 @@
             }
         }
     },
-    "time": 1642696850.1654198
+    "time": 1642698395.5755746
 }
